@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Muhammad Alif Febriansyah</h1>
 <h3 align="center">Informatics Engineering Student | Digital Art & Technology Enthusiast</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" alt="Coding" width="400"/>
-</p>
-
 ---
 
 ### 🌱 About Me
